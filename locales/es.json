@@ -1,0 +1,48 @@
+{
+    "general": {
+        "title": "Count Masters: Juegos de Stickman",
+        "fullscreen": "Pantalla completa",
+        "share": "Compartir",
+        "bookmark": "Favoritos"
+    },
+    "game": {
+        "overview": "Descripción del juego",
+        "description": "Count Masters: Juegos de Stickman es un juego de carreras trepidante donde reúnes un ejército creciente de stickman para enfrentarte a multitudes rivales. Navega a través de obstáculos, elige los mejores caminos para multiplicar tus números y lidera a tu equipo hacia la victoria. ¡Lucha contra oponentes feroces, derrota al Rey-stickman y conquista el castillo en una carrera llena de acción, estrategia y emoción!",
+        "features": "Características",
+        "controls": "Controles"
+    },
+    "features": {
+        "feature1": "Corredor 3D de ritmo rápido con épicas batallas multitudinarias",
+        "feature2": "Divertidas opciones de estrategia y matemáticas en cada puerta",
+        "feature3": "Peleas contra jefes y trampas desafiantes",
+        "feature4": "Visuales coloridos y satisfactorios con controles suaves"
+    },
+    "tips": {
+        "tip1": "No solo corras hacia adelante: elige las puertas que te den los mejores números, incluso si no están directamente en tu camino.",
+        "tip2": "Evita las puertas rojas y las trampas peligrosas que reducen tu ejército.",
+        "tip3": "Mejora tu multitud inicial y los bonos de las puertas temprano para crecer más rápido en cada carrera.",
+        "tip4": "Observa los movimientos enemigos y cronometra tus ataques: cargar a ciegas puede costar todo tu equipo.",
+        "tip5": "Guarda monedas entre carreras para aumentar tu fuerza y hacer que los niveles más difíciles sean más fáciles."
+    },
+    "controls": {
+        "mouse": {
+            "title": "Controles del ratón",
+            "description": "Mueve el personaje moviendo el ratón a la izquierda o derecha. Clic izquierdo para seleccionar botones."
+        },
+        "keyboard": {
+            "title": "Controles del teclado",
+            "description": "Usa las flechas izquierda y derecha para moverte. Presiona espacio para seleccionar acciones."
+        }
+    },
+    "comments": {
+        "title": "Comentarios",
+        "placeholder": "Comparte tu experiencia de juego...",
+        "submit": "Publicar comentario"
+    },
+    "footer": {
+        "copyright": "© 2025 Count Masters: Juegos de Stickman. Todos los derechos reservados.",
+        "terms": "Términos de servicio",
+        "privacy": "Política de privacidad",
+        "contact": "Contáctanos"
+    }
+} 

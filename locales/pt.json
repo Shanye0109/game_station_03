@@ -1,0 +1,48 @@
+{
+    "general": {
+        "title": "Count Masters: Jogos de Stickman",
+        "fullscreen": "Tela cheia",
+        "share": "Compartilhar",
+        "bookmark": "Favoritos"
+    },
+    "game": {
+        "overview": "Visão Geral do Jogo",
+        "description": "Count Masters: Jogos de Stickman é um jogo de corrida em ritmo acelerado onde você reúne um exército crescente de stickmen para enfrentar multidões rivais. Navegue por obstáculos, escolha os melhores caminhos para multiplicar seus números e lidere sua equipe para a vitória. Enfrente oponentes ferozes, derrote o Rei-stickman e conquiste o castelo em uma corrida cheia de ação, estratégia e emoção!",
+        "features": "Características",
+        "controls": "Controles"
+    },
+    "features": {
+        "feature1": "Corredor 3D em ritmo acelerado com batalhas épicas de multidão",
+        "feature2": "Opções divertidas de estratégia e matemática em cada portão",
+        "feature3": "Lutas contra chefes e armadilhas desafiadoras",
+        "feature4": "Visuais coloridos e satisfatórios com controles suaves"
+    },
+    "tips": {
+        "tip1": "Não corra apenas para frente - escolha os portões que te dão os melhores números, mesmo que não estejam diretamente no seu caminho.",
+        "tip2": "Evite portões vermelhos e armadilhas perigosas que reduzem seu exército.",
+        "tip3": "Melhore sua multidão inicial e bônus de portões cedo para crescer mais rápido em cada corrida.",
+        "tip4": "Observe os movimentos inimigos e cronometre seus ataques - avançar às cegas pode custar toda sua equipe.",
+        "tip5": "Guarde moedas entre as corridas para aumentar sua força e facilitar os níveis difíceis."
+    },
+    "controls": {
+        "mouse": {
+            "title": "Controles do Mouse",
+            "description": "Mova o personagem movendo o mouse para a esquerda ou direita. Clique com o botão esquerdo para selecionar botões."
+        },
+        "keyboard": {
+            "title": "Controles do Teclado",
+            "description": "Use as setas esquerda e direita para se mover. Pressione espaço para selecionar ações."
+        }
+    },
+    "comments": {
+        "title": "Comentários",
+        "placeholder": "Compartilhe sua experiência de jogo...",
+        "submit": "Publicar Comentário"
+    },
+    "footer": {
+        "copyright": "© 2025 Count Masters: Jogos de Stickman. Todos os direitos reservados.",
+        "terms": "Termos de Serviço",
+        "privacy": "Política de Privacidade",
+        "contact": "Contate-nos"
+    }
+} 

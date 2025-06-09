@@ -1,0 +1,48 @@
+{
+    "general": {
+        "title": "Count Masters: Game Stickman",
+        "fullscreen": "Layar Penuh",
+        "share": "Bagikan",
+        "bookmark": "Markah"
+    },
+    "game": {
+        "overview": "Ikhtisar Permainan",
+        "description": "Count Masters: Game Stickman adalah permainan berlari cepat di mana Anda mengumpulkan pasukan stickman yang terus bertambah untuk berhadapan dengan kerumunan lawan. Navigasi melalui rintangan, pilih jalur terbaik untuk melipatgandakan jumlah Anda, dan pimpin tim Anda menuju kemenangan. Lawan musuh yang tangguh, kalahkan Raja-stickman, dan rebut kastil dalam balapan yang penuh aksi, strategi, dan keseruan!",
+        "features": "Fitur",
+        "controls": "Kontrol"
+    },
+    "features": {
+        "feature1": "Runner 3D berkecepatan tinggi dengan pertempuran kerumunan epik",
+        "feature2": "Pilihan strategi dan matematika yang menyenangkan di setiap gerbang",
+        "feature3": "Pertarungan bos dan jebakan yang menantang",
+        "feature4": "Visual berwarna dan memuaskan dengan kontrol yang halus"
+    },
+    "tips": {
+        "tip1": "Jangan hanya lari ke depan - pilih gerbang yang memberi Anda angka terbaik, bahkan jika tidak langsung di jalur Anda.",
+        "tip2": "Hindari gerbang merah dan jebakan berbahaya yang mengurangi pasukan Anda.",
+        "tip3": "Tingkatkan kerumunan awal dan bonus gerbang Anda lebih awal untuk tumbuh lebih cepat di setiap putaran.",
+        "tip4": "Amati gerakan musuh dan atur waktu serangan Anda - menyerang membabi buta bisa membuat Anda kehilangan seluruh tim.",
+        "tip5": "Simpan koin antar putaran untuk meningkatkan kekuatan Anda dan membuat level sulit menjadi lebih mudah."
+    },
+    "controls": {
+        "mouse": {
+            "title": "Kontrol Mouse",
+            "description": "Gerakkan karakter dengan menggerakkan mouse ke kiri atau kanan. Klik kiri untuk memilih tombol."
+        },
+        "keyboard": {
+            "title": "Kontrol Keyboard",
+            "description": "Gunakan tombol panah kiri dan kanan untuk bergerak. Tekan spasi untuk memilih tindakan."
+        }
+    },
+    "comments": {
+        "title": "Komentar",
+        "placeholder": "Bagikan pengalaman bermain Anda...",
+        "submit": "Kirim Komentar"
+    },
+    "footer": {
+        "copyright": "© 2025 Count Masters: Game Stickman. Hak Cipta Dilindungi.",
+        "terms": "Ketentuan Layanan",
+        "privacy": "Kebijakan Privasi",
+        "contact": "Hubungi Kami"
+    }
+} 

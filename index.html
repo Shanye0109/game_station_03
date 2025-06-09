@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#1a237e">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="description" content="Play Count Masters: Stickman Games - An exciting crowd runner game where you lead your stickman army to victory! Multiply your numbers, dodge obstacles, and defeat bosses in this action-packed adventure.">
+    <meta name="keywords" content="Count Masters, Stickman Games, Crowd Runner, Multiplayer Game, Action Game, Strategy Game, Online Game, Free Game">
+    <meta name="author" content="Count Masters">
+    <meta property="og:title" content="Count Masters: Stickman Games">
+    <meta property="og:description" content="Lead your stickman army to victory in this exciting crowd runner game! Play now for free.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="icon.ico">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Count Masters: Stickman Games">
+    <meta name="twitter:description" content="Lead your stickman army to victory in this exciting crowd runner game! Play now for free.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://yourdomain.com/count-masters/">
+    <title data-i18n="general.title">Count Masters: Stickman Games - Play Free Online</title>
+    <link rel="icon" type="image/x-icon" href="icon.ico">
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        console.log('Initial script loaded');
+        // Basic error handling for script loading
+        window.onerror = function(msg, url, lineNo, columnNo, error) {
+            console.error('Error: ' + msg + '\nURL: ' + url + '\nLine: ' + lineNo + '\nColumn: ' + columnNo + '\nError object: ' + JSON.stringify(error));
+            return false;
+        };
+        window.addEventListener('DOMContentLoaded', function() {
+            console.log('DOM fully loaded');
+            console.log('Current script path:', document.currentScript?.src);
+            console.log('All scripts:', document.getElementsByTagName('script'));
+            console.log('Page loaded, initializing language settings...');
+            const savedLang = localStorage.getItem('preferred-language');
+            const browserLang = navigator.language || navigator.userLanguage;
+            console.log('Saved language:', savedLang);
+            console.log('Browser language:', browserLang);
+        });
+    </script>
+</head>
+<body>
+    <header class="site-header">
+        <div class="logo" data-i18n="general.title">Count Masters: Stickman Games</div>
+        <div class="language-selector">
+            <button class="language-btn" id="languageBtn">
+                <span class="current-lang">English</span>
+                <span class="arrow">▼</span>
+            </button>
+            <div class="language-dropdown" id="languageDropdown">
+                <a href="#" data-lang="en">English</a>
+                <a href="#" data-lang="zh-CN">简体中文</a>
+                <a href="#" data-lang="hi">हिन्दी</a>
+                <a href="#" data-lang="es">Español</a>
+                <a href="#" data-lang="fr">Français</a>
+                <a href="#" data-lang="ar">العربية</a>
+                <a href="#" data-lang="bn">বাংলা</a>
+                <a href="#" data-lang="pt">Português</a>
+                <a href="#" data-lang="ur">اردو</a>
+                <a href="#" data-lang="id">Bahasa Indonesia</a>
+                <a href="#" data-lang="ko">한국어</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="game-container">
+            <div class="game-wrapper">
+                <iframe src="https://www.crazygames.com/embed/count-masters-stickman-games" 
+                        style="width: 100%; height: 100%;" 
+                        frameborder="0" 
+                        allow="gamepad *; fullscreen *;"
+                        allowfullscreen>
+                </iframe>
+            </div>
+            <div class="game-controls">
+                <button class="fullscreen-btn" data-i18n="general.fullscreen">Fullscreen</button>
+                <button class="share-btn" data-i18n="general.share">Share</button>
+                <button class="favorite-btn" data-i18n="general.bookmark">Bookmark</button>
+            </div>
+        </section>
+
+        <section class="game-info">
+            <h2 data-i18n="game.overview">Game Overview</h2>
+            <div class="info-content">
+                <p data-i18n="game.description">Count Masters: Stickman Games is a fast-paced running game where you gather a growing army of stickmen to clash against rival crowds. Navigate through obstacles, choose the best paths to multiply your numbers, and lead your team to victory. Battle fierce opponents, defeat the King-stickman, and claim the castle in an action-packed race filled with strategy and excitement!</p>
+            </div>
+
+            <h3 data-i18n="game.features">Features</h3>
+            <ul class="features-list">
+                <li data-i18n="features.feature1">Fast-paced 3D runner with epic crowd battles</li>
+                <li data-i18n="features.feature2">Fun strategy and math choices with every gate</li>
+                <li data-i18n="features.feature3">Boss fights and challenging traps</li>
+                <li data-i18n="features.feature4">Colorful, satisfying visuals and smooth controls</li>
+            </ul>
+
+            <h3 data-i18n="game.tips">Tips and Tricks</h3>
+            <ul class="tips-list">
+                <li data-i18n="tips.tip1">Don't just rush forward—choose gates that give you the best numbers, even if they're not directly in your path.</li>
+                <li data-i18n="tips.tip2">Avoid red gates and dangerous traps that shrink your army.</li>
+                <li data-i18n="tips.tip3">Upgrade your starting crowd and gate bonuses early to grow faster in each run.</li>
+                <li data-i18n="tips.tip4">Watch enemy movements and time your attacks—charging in blindly can cost your entire team.</li>
+                <li data-i18n="tips.tip5">Save coins between runs to boost your strength and make harder levels easier.</li>
+            </ul>
+
+
+        </section>
+
+        <section class="game-guide">
+            <h2 data-i18n="game.controls">Controls</h2>
+            <div class="controls-info">
+                <div class="control-group">
+                    <h3 data-i18n="controls.mouse.title">Mouse Controls</h3>
+                    <p data-i18n="controls.mouse.description">Move the character by moving the mouse left or right. Left-click to select buttons.</p>
+                </div>
+                <div class="control-group">
+                    <h3 data-i18n="controls.keyboard.title">Keyboard Controls</h3>
+                    <p data-i18n="controls.keyboard.description">Use the left and right arrow keys to move. Press space to select actions.</p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p data-i18n="footer.copyright">© 2025 Count Masters: Stickman Games. All rights reserved.</p>
+            <nav class="footer-nav">
+                <a href="#" data-i18n="footer.terms">Terms of Service</a>
+                <a href="#" data-i18n="footer.privacy">Privacy Policy</a>
+                <a href="#" data-i18n="footer.contact">Contact Us</a>
+            </nav>
+        </div>
+    </footer>
+
+    <script>
+        console.log('Before loading main script');
+    </script>
+    <script src="scripts.js" onerror="console.error('Failed to load scripts.js')" onload="console.log('scripts.js loaded successfully')"></script>
+    <script>
+        console.log('After loading main script');
+    </script>
+</body>
+</html> 

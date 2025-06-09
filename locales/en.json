@@ -1,0 +1,55 @@
+{
+    "general": {
+        "title": "Count Masters: Stickman Games",
+        "fullscreen": "Fullscreen",
+        "share": "Share",
+        "bookmark": "Bookmark"
+    },
+    "game": {
+        "overview": "Game Overview",
+        "description": "Count Masters: Stickman Games is a fast-paced running game where you gather a growing army of stickmen to clash against rival crowds. Navigate through obstacles, choose the best paths to multiply your numbers, and lead your team to victory. Battle fierce opponents, defeat the King-stickman, and claim the castle in an action-packed race filled with strategy and excitement!",
+        "features": "Features",
+        "tips": "Tips and Tricks",
+        "controls": "Controls"
+    },
+    "features": {
+        "feature1": "Fast-paced 3D runner with epic crowd battles",
+        "feature2": "Fun strategy and math choices with every gate",
+        "feature3": "Boss fights and challenging traps",
+        "feature4": "Colorful, satisfying visuals and smooth controls"
+    },
+    "tips": {
+        "tip1": "Don't just rush forward—choose gates that give you the best numbers, even if they're not directly in your path.",
+        "tip2": "Avoid red gates and dangerous traps that shrink your army.",
+        "tip3": "Upgrade your starting crowd and gate bonuses early to grow faster in each run.",
+        "tip4": "Watch enemy movements and time your attacks—charging in blindly can cost your entire team.",
+        "tip5": "Save coins between runs to boost your strength and make harder levels easier."
+    },
+    "controls": {
+        "mouse": {
+            "title": "Mouse Controls",
+            "description": "Move the character by moving the mouse left or right. Left-click to select buttons."
+        },
+        "keyboard": {
+            "title": "Keyboard Controls",
+            "description": "Use the left and right arrow keys to move. Press space to select actions."
+        }
+    },
+    "comments": {
+        "title": "Comments",
+        "placeholder": "Share your gaming experience...",
+        "submit": "Post Comment",
+        "guest": "Guest"
+    },
+    "footer": {
+        "terms": "Terms of Service",
+        "privacy": "Privacy Policy",
+        "contact": "Contact Us",
+        "copyright": "© 2025 Count Masters: Stickman Games. All rights reserved."
+    },
+    "messages": {
+        "shareSuccess": "Link copied successfully! Share it with your friends!",
+        "bookmarkTip": "Press {key} + D to bookmark this page",
+        "fullscreenError": "Fullscreen error: {error}"
+    }
+} 
