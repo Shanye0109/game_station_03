@@ -44,6 +44,19 @@
 <body>
     <header class="site-header">
         <div class="logo" data-i18n="general.title">Count Masters: Stickman Games</div>
+        <div class="game-container">
+            <div class="game-wrapper">
+                <iframe src="https://www.crazygames.com/embed/count-masters-stickman-games" 
+                        style="width: 100%; height: 100%;" 
+                        frameborder="0" 
+                        allow="gamepad *; fullscreen *;"
+                        allowfullscreen>
+                </iframe>
+            </div>
+            <div class="game-controls">
+                <button class="fullscreen-btn" data-i18n="general.fullscreen">Fullscreen</button>
+            </div>
+        </div>
         <div class="language-selector">
             <button class="language-btn" id="languageBtn">
                 <span class="current-lang">English</span>
@@ -66,22 +79,6 @@
     </header>
 
     <main>
-        <section class="game-container">
-            <div class="game-wrapper">
-                <iframe src="https://www.crazygames.com/embed/count-masters-stickman-games" 
-                        style="width: 100%; height: 100%;" 
-                        frameborder="0" 
-                        allow="gamepad *; fullscreen *;"
-                        allowfullscreen>
-                </iframe>
-            </div>
-            <div class="game-controls">
-                <button class="fullscreen-btn" data-i18n="general.fullscreen">Fullscreen</button>
-                <button class="share-btn" data-i18n="general.share">Share</button>
-                <button class="favorite-btn" data-i18n="general.bookmark">Bookmark</button>
-            </div>
-        </section>
-
         <section class="game-info">
             <h2 data-i18n="game.overview">Game Overview</h2>
             <div class="info-content">
@@ -104,8 +101,6 @@
                 <li data-i18n="tips.tip4">Watch enemy movements and time your attacks—charging in blindly can cost your entire team.</li>
                 <li data-i18n="tips.tip5">Save coins between runs to boost your strength and make harder levels easier.</li>
             </ul>
-
-
         </section>
 
         <section class="game-guide">
@@ -121,7 +116,6 @@
                 </div>
             </div>
         </section>
-
     </main>
 
     <footer class="site-footer">
