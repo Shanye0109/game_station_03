@@ -3,4 +3,4 @@ Allow: /
 Allow: /locales/
 Disallow: /server/
 
-Sitemap: https://yourdomain.com/sitemap.xml 
+Sitemap: https://countmaster.mom/sitemap.xml 
